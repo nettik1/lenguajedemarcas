@@ -18,7 +18,7 @@ Se utiliza en todos los documentos HTML para contener el contenido principal, co
 </head>
 <body>
     <h1>hola Gustavo</h1>
-    <p>aqui me extenderia en un parrafo.</p>
+    <p>espero que esto sea suficiente para que me corrijas el trabajo de markdown aunque te lo mandase un dia tarde :) </p>
 </body>
 </html>
 ```
